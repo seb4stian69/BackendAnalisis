@@ -10,7 +10,7 @@ Luego de clonar el repositorio en el dispositivo, para poder ejecutar el servido
 4. Luego de ello instalar las librerias necesarias para ejecutar el proyecto <br>
 <code>-1 pip install django</code> <br>
 <code>-2 pip install numpy</code> <br>
-<code>-3 pip pip install django-cors-headers</code>
+<code>-3 pip install django-cors-headers</code>
 5. Luego de eso ejecutar el servidor de django usando el siguiente comando <code>python manage.py runserver</code>
 
 ## Observacion #1
