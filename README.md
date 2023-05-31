@@ -14,4 +14,4 @@ Luego de clonar el repositorio en el dispositivo, para poder ejecutar el servido
 5. Luego de eso ejecutar el servidor de django usando el siguiente comando <code>python manage.py runserver</code>
 
 ## Observacion #1
-- En dado caso de que pida upgradear la version del pip ejecutar el siguiente comando <code>python.exe -m pip install --upgrade pip</code> y luego de que termine de actualizar la version volver a instalar la libreria que se intento instalar
+- En dado caso de que pida upgradear la version del pip ejecutar el siguiente comando <code>python.exe -m pip install --upgrade pip</code> y luego de que termine de actualizar la version volver a instalar la libreria que se intento instalar (valga la redundancia)
